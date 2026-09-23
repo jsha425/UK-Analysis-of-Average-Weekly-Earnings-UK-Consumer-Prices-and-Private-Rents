@@ -43,4 +43,4 @@ Matplotlib
 Excel
 Jupyter
 
-![image alt](https://github.com/jsha425/UK-Analysis-of-Average-Weekly-Earnings-UK-Consumer-Prices-and-Private-Rents/blob/1da2b5949040b24ef02b69e8f5705bf7d8a1f441/Screenshot%202026-09-23%20160506.png)
+![image alt](https://github.com/jsha425/UK-Analysis-of-Average-Weekly-Earnings-UK-Consumer-Prices-and-Private-Rents/blob/0a5fb4b7f29f918aad6ddc688d4ea92fba06c8f6/Screenshot%202026-09-23%20161648.png)
