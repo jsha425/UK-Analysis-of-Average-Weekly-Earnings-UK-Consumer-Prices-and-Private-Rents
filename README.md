@@ -42,3 +42,5 @@ Pandas
 Matplotlib
 Excel
 Jupyter
+
+![image alt] (https://github.com/jsha425/UK-Analysis-of-Average-Weekly-Earnings-UK-Consumer-Prices-and-Private-Rents/blob/a2c6b584e8a36d26fe43d8aca03427651ecc3fb8/Screenshot%202026-09-23%20160506.png)
