@@ -1,4 +1,1 @@
-mv yourfile.pdf report/
-git add report/yourfile.pdf
-git commit -m "Add PDF to report folder"
-git push
+
