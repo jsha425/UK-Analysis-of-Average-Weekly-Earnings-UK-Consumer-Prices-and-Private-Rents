@@ -1,1 +1,4 @@
-Have UK Earnings Kept Pace With the Rising Cost of Living Between 2015 - 2025.pdf
+mv yourfile.pdf report/
+git add report/yourfile.pdf
+git commit -m "Add PDF to report folder"
+git push
